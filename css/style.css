@@ -18,7 +18,7 @@ body {
   line-height: 1.6;
   color: #f2f1ec;
 
-  background: #000;
+  background: red;
   background-repeat: repeat;
   background-attachment: scroll;
 }
