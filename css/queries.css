@@ -212,6 +212,7 @@
   }
   .gallery-txt-box {
     padding: 1.5rem 1.5rem 1rem;
+    border-radius: 2rem;
   }
   .gallery-description {
     font-size: 1.6rem;
